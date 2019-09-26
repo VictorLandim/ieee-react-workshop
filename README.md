@@ -34,3 +34,9 @@ Bem-vindo(a) ao repositório do workshop! Aqui você vai encontrar links e mater
 - Server side rendering
 - Styled Components
 - React Router Dom
+
+## Contato
+
+Vamos trocar uma ideia!
+
+victorlandim.com
