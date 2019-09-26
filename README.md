@@ -1,12 +1,13 @@
 # Workshop Seus Primeiros Passos em React
 
-Bem-vindo(a) ao repositório do workshop! Aqui você vai encontrar links e material complementar relevante. 🙂
+Bem-vindo(a) ao repositório do workshop!
+Aqui você vai encontrar links, material complementar relevante e todos os códigos completos, incluindo a api que utilizamos! 🙂🚀
 
-## Slides
+## Slides 🖥
 
 - https://docs.google.com/presentation/d/13ZIxsbNOYyI8uuaKI6SeGZqY88so-lCL6Y7hoEIZq5c/
 
-## Links para atividades práticas
+## Links para atividades práticas 👩🏽‍💻
 
 1. https://codesandbox.io/s/hello-react-starter-v4v95
 
@@ -16,7 +17,7 @@ Bem-vindo(a) ao repositório do workshop! Aqui você vai encontrar links e mater
 
 4. https://codesandbox.io/s/filmes-bsb-r7m3j
 
-## Referências
+## Referências 📚
 
 - React: https://reactjs.org/
 - Codesandbox: https://codesandbox.io/dashboard
@@ -26,7 +27,7 @@ Bem-vindo(a) ao repositório do workshop! Aqui você vai encontrar links e mater
 - React renderers: https://github.com/chentsulin/awesome-react-renderer
 - Métodos de ciclo de vida: http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
 
-## Próximos passos
+## Próximos passos 🐾
 
 - Redux
 - Context API
@@ -35,7 +36,7 @@ Bem-vindo(a) ao repositório do workshop! Aqui você vai encontrar links e mater
 - Styled Components
 - React Router Dom
 
-## Contato
+## Contato 📞
 
 Vamos trocar uma ideia!
 
