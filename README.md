@@ -2,6 +2,10 @@
 
 Bem-vindo(a) ao repositório do workshop! Aqui você vai encontrar links e material complementar relevante. 🙂
 
+## Slides
+
+- https://docs.google.com/presentation/d/13ZIxsbNOYyI8uuaKI6SeGZqY88so-lCL6Y7hoEIZq5c/
+
 ## Links para atividades práticas
 
 1. https://codesandbox.io/s/hello-react-starter-v4v95
@@ -17,6 +21,9 @@ Bem-vindo(a) ao repositório do workshop! Aqui você vai encontrar links e mater
 - React: https://reactjs.org/
 - Codesandbox: https://codesandbox.io/dashboard
 - API ingresso.com: https://suporte.ingresso.com/hc/pt-br/articles/115001166112-Integra%C3%A7%C3%A3o-com-a-API-de-Conte%C3%BAdo-
+- API adaptada: https://workshop-sene-react-api.victorlandim.now.sh/api/movies
+- React renderers: https://github.com/chentsulin/awesome-react-renderer
+- Métodos de ciclo de vida: http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
 
 ## Próximos passos
 
