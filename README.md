@@ -40,4 +40,4 @@ Aqui você vai encontrar links, material complementar relevante e todos os códi
 
 Vamos trocar uma ideia!
 
-victorlandim.com
+https://victorlandim.com
