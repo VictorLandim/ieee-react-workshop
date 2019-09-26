@@ -32,9 +32,7 @@ app.get('/api/sessoes/:cityId', async (req, res) => {
   );
 
   const sessionsResponse = await Promise.all(sessionsPromises);
-
   const allSessions = sessionsResponse.map(session => session.data);
-
   const sessions = allTheaters.map((theater, i) => ({
     ...theater,
     movies: allSessions[i]
