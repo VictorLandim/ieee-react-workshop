@@ -36,8 +36,20 @@ Aqui você vai encontrar links, material complementar relevante e todos os códi
 - Styled Components
 - React Router Dom
 
+## Cursos que recomendo 👓
+
+- https://www.udemy.com/course/react-redux/
+- https://www.udemy.com/course/the-advanced-web-developer-bootcamp/
+- https://www.udemy.com/course/the-complete-react-native-and-redux-course/
+
 ## Contato 📞
 
 Vamos trocar uma ideia!
 
 https://victorlandim.com
+
+## Aprendizados
+
+- Explicar melhor a diferença entre componentes funcionais e componentes class (dumb e smart components).
+- Explicar melhor que um componente recebe um conjunto de múltiplos props.
+- Melhorar o review de ES6 (sintaxe é muito importante).
